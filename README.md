@@ -1,3 +1,7 @@
+> **⚠️ ARCHIVED** — This repository has been consolidated into [metasystem-master](https://github.com/organvm-ii-poiesis/metasystem-master). All active development has moved there. This repository is preserved for historical reference only.
+
+---
+
 [![ORGAN-II: Poiesis](https://img.shields.io/badge/ORGAN--II-Poiesis-6a1b9a?style=flat-square)](https://github.com/organvm-ii-poiesis)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
