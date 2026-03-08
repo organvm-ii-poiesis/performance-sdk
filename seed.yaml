@@ -1,26 +1,20 @@
-version: 1
-project:
-  name: performance-sdk
-  description: Auto-generated seed. Waiting for human intent.
-  owners:
-  - handle: omni-dromenon-machina
-    role: steward
-  repo:
-    org: omni-dromenon-machina
-    type: node
-    role: architect/core
-architecture:
-  tech_stack:
-  - node
-  - typescript
-automation_contract:
-  ai_access:
-    read_paths:
-    - '**/*'
-    write_paths:
-    - src/**
-    - docs/**
-    - tests/**
-    disallowed_writes:
-    - .github/workflows/**
-    - seed.yaml
+# seed.yaml — Automation Contract for omni-dromenon-machina/performance-sdk
+# Schema: seed/v1.0
+
+schema_version: '1.0'
+organ: II
+organ_name: Art
+repo: performance-sdk
+org: omni-dromenon-machina
+metadata:
+  implementation_status: ARCHIVED
+  tier: archive
+  promotion_status: ARCHIVED
+  last_validated: '2026-03-08'
+produces:
+- type: artifact
+  description: "[ARCHIVED] SDK for real-time performance systems \u2014 consolidated\
+    \ into metasystem-master"
+consumes:
+- repo: organvm-ii-poiesis/metasystem-master
+  type: package
